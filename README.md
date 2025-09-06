@@ -1,1 +1,1 @@
-# js-equals
+# @rotcetihra/equals
